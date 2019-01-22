@@ -1,0 +1,4 @@
+{"backend_state":"running","kernel":"sagemath","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":262897664},"trust":true,"type":"settings"}
+{"id":"e5278f","input":"","pos":0,"state":"done","type":"cell"}
+{"id":0,"time":1548170154654,"type":"user"}
+{"last_load":1548170154021,"type":"file"}
