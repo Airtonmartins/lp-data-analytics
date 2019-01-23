@@ -1,4 +1,4 @@
-# Interpolação de dados de precipitação de chuva em Pernmabuco
+# Interpolação de dados de precipitação de chuva em Pernambuco
 
 Repositório contendo os scripts utilizados para o estudo da interpolação de dados de precipitação de chuva nas 7 estações no estado de Pernmabuco contidas no dados abertos do INMET, para a disciplina Linguagens de Programação do curso de Bacharelado em Sistemas de Informação da Universidade Federal Rural de Pernambuco (UFRPE) no período de 2018.2.
 
@@ -52,6 +52,7 @@ jupyter notebook
 ```
 
 Depois de digitado o comando, tecle enter e aguarde o comando ser executado, então será aberta uma janela/guia do seu navegador executando o projeto no localhost:8888. Pronto agora você já pode utlizar o projeto! Para encerrar o jupyter notebook, pasta você ir no terminal de linhas de comando aberto e apertar a tecla Ctrl + C e isso encerrará a execução. Bom, vai o alertar que o jupyter notebook consome bastante do hardware do seu computador, então caso tenha um computador que não seja tão potente, você pode baixar o projeto e utilizar ele em ferramentas/máquinas na nuvem, como por exemplo o [cocalc](https://cocalc.com).
+
 
 ## Contato e dúvidas
 
